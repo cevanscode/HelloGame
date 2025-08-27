@@ -25,3 +25,4 @@ C:\Users\Hunter\Desktop\CIS 580 - Game Development\HelloGame\HelloGame\obj\Debug
 C:\Users\Hunter\Desktop\CIS 580 - Game Development\HelloGame\HelloGame\obj\Debug\net8.0-windows\HelloGame.pdb
 C:\Users\Hunter\Desktop\CIS 580 - Game Development\HelloGame\HelloGame\obj\Debug\net8.0-windows\HelloGame.genruntimeconfig.cache
 C:\Users\Hunter\Desktop\CIS 580 - Game Development\HelloGame\HelloGame\obj\Debug\net8.0-windows\ref\HelloGame.dll
+C:\Users\Hunter\Desktop\CIS 580 - Game Development\HelloGame\HelloGame\obj\Debug\net8.0-windows\HelloGame.sourcelink.json
